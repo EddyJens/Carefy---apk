@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Carefy</string>
+    <string name="Login">Login</string>
+    <string name="patients_list">List of patients</string>
+    <string name="patients_register">Patients record</string>
+    <string name="patients_remove">Removal of patients</string>
+
+    <!-- login values -->
+    <string name="username">username</string>
+    <string name="password">password</string>
+
+    <!-- patient listing values -->
+    <string name="user_idL">User identification</string>
+
+    <!-- patient recording values -->
+    <string name="patient_name">Patient name</string>
+    <string name="hospital_name">Hospital name</string>
+
+    <!-- patient removal values -->
+    <string name="user_idR">User identification</string>
+    <string name="patient_id">Patient identification</string>
+
+</resources>
